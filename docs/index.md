@@ -12,6 +12,9 @@ Este site reúne a documentação do painel e visa registrar, de forma organizad
 Mais do que um manual técnico, esta documentação busca oferecer transparência e compartilhamento de conhecimento, permitindo que servidores e colaboradores compreendam a estrutura do painel e possam replicar, adaptar ou propor melhorias.
 </div>
 
+![Descrição da imagem](assets/imagem_painel_ia.png)
+
+
 [Link do Painel de Planejamento e Orçamento MG](https://app.powerbi.com/view?r=eyJrIjoiMjcyMjkxYzEtODZmYS00OTQyLTg1YzctOWVhNDE3MWFhMjdjIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 
