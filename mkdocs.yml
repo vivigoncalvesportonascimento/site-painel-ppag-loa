@@ -1,1 +1,18 @@
-site_name: Painel de Planejamento e Orçamento MG
+site_name: Painel de Planejamento e Orçamento de Minas Gerais
+site_url: https://mydomain.org/mysite
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: blue grey
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+nav:
+  - Painel de Planejamento e Orçamento  Documentação: index.md
+  - Sobre o painel: sobre.md
+  - Construção do painel: construcao.md
+  - Publicação e atualização: publicacao.md
+  - Glossário: glossario.md
+  - FAQ: faq.md

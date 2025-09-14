@@ -1,7 +1,3 @@
-## **Painel de Planejamento e Orçamento de Minas Gerais**   
-####Documentação
-
-<br>
 
 <div style="text-align: justify; margin-bottom: 20px;">
 
