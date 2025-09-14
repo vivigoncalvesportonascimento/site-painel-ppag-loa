@@ -8,7 +8,7 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
-  logo: assets/icone_bi2.png
+  logo: assets/logo.png
 
 nav:
   - Painel de Planejamento e Orçamento  Documentação: index.md
