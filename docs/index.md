@@ -18,11 +18,11 @@ Mais do que um manual técnico, esta documentação busca oferecer transparênci
 [Link do Painel de Planejamento e Orçamento MG](https://app.powerbi.com/view?r=eyJrIjoiMjcyMjkxYzEtODZmYS00OTQyLTg1YzctOWVhNDE3MWFhMjdjIiwidCI6ImU1ZDNhZTdjLTliMzgtNDhkZS1hMDg3LWY2NzM0YTI4NzU3NCJ9)
 
 
-### Estrutura do site
 
 
 
-* **Sobre o painel** – Explica em que consiste o painel, quais são suas principais informações e orienta sobre como navegar pela ferramenta.  
+
+* **O Painel de Planejamento e Orçamento** – Explica em que consiste o painel, quais são suas principais informações e orienta sobre como navegar pela ferramenta.  
 
 * **Construção do painel** – Detalha a arquitetura do projeto, as fontes de dados utilizadas, os processos de transformação e modelagem, além dos scripts empregados na elaboração dos visuais do relatório.  
 

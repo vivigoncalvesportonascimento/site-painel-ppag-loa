@@ -11,8 +11,8 @@ theme:
   logo: assets/logo.png
 
 nav:
-  - Painel de Planejamento e Orçamento  Documentação: index.md
-  - Sobre o painel: sobre.md
+  - Estrutura do site: index.md
+  - O Painel de Planejamento e Orçamento: sobre-painel.md
   - Construção do painel: construcao.md
   - Publicação e atualização: publicacao.md
   - Glossário: glossario.md
