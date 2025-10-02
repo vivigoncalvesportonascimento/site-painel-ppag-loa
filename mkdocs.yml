@@ -17,3 +17,6 @@ nav:
   - Publicação e atualização: publicacao.md
   - Glossário: glossario.md
   - FAQ: faq.md
+
+extra_css:
+  - stylesheets/extra.css

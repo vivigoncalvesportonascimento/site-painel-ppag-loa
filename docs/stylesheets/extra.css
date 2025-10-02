@@ -1,0 +1,4 @@
+/* Justificar apenas blocos de citação (>) */
+.md-typeset blockquote {
+  text-align: justify;
+}
