@@ -2,3 +2,16 @@
 .md-typeset blockquote {
   text-align: justify;
 }
+
+/* Cor do texto principal */
+.md-typeset {
+  color: #555555 !important; /* cinza médio */
+}
+
+/* Títulos */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  color: #555555 !important; /* mais escuro para contraste */
+}
